@@ -16,7 +16,7 @@ A web-based application that predicts the likelihood of various diseases includi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/disease-prediction-system.git
+git clone https://github.com/Kartik-T29/Disease-prediction-.git
 cd disease-prediction-system
 ```
 
